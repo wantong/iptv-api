@@ -1,4 +1,4 @@
-央视,#genre#
+
 CCTV-1 (CN),http://103.39.109.80/hr.php?ch=475.m3u8
 CCTV-1 1080P (CN),http://103.39.109.80/hr.php?ch=533.m3u8
 CCTV-2 (CN),http://103.39.109.80/hr.php?ch=476.m3u8
